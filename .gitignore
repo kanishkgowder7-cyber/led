@@ -1,0 +1,10 @@
+/Debug/
+/Release/
+/.settings/
+/.mxproject
+*.elf
+*.bin
+*.map
+*.su
+*.o
+*.d
